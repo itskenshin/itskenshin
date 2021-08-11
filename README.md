@@ -23,12 +23,12 @@
 - 💻 I am currently an industrial engineer.
 - 🌱 I'm currently learning **Full Stack development**.
 - 💬 Languages **English and Spanish**
-- 🤔 My hobbies are **playing Tennis and play Piano,Video games **.
+- 🤔 My hobbies are **playing Tennis Play Piano and Video games **.
 - 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email: 
  Gmail:jomontero04gmail.com.
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=itsKenshin-1999&count_private=true&show_icons=true" alt="Kenshin" />
 
 **Languages and Tools:**  
 
