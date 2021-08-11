@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jonathan Montero Aka Kenshin
-- 👀 I’m interested in everything related to programming
-- 🌱 I’m currently learning software engineerr
-- 📫 Jomontero04@gmail.com
+Comandos para los muchachos de software
 
 <!---
 itskenshin/itskenshin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
