@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan Montero Aka Kenshin
+- 👋 Hi,
 Comandos para los muchachos de software
 
 <!---
