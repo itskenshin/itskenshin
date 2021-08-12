@@ -9,6 +9,8 @@
   <img align="left" alt="Instagram" width="22px" src="https://w7.pngwing.com/pngs/815/101/png-transparent-www-mevrouwpak-nl-advertising-graphic-design-instagram-instagram-logo-business-advertising.png" />
 </a>
 
+**Social**
+
 <a href="https://github.com/itskenshin/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
