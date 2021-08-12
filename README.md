@@ -39,7 +39,7 @@
 - 📫 Please contact me via email: 
  Gmail:**jomontero04gmail.com**.
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=itsKenshin&count_private=true&show_icons=true&theme=radical)"
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=itsKenshin&count_private=true&show_icons=true&theme=dark)"
  alt="Kenshin" />
 
 **Languages and Tools:**  
