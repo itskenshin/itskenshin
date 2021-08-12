@@ -1,4 +1,6 @@
 ### hihihi 👋, Jonathan Aka Kenshin.
+<code><img height="20" src="https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png"></code>
+
 <a href="https://www.instagram.com/jonathanm0404/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
