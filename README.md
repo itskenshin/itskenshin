@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<img align ="right" src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fwww.instagram.com%2Fjonathanm0404%2F%3Fr%3Dnametag&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+<img align ="right" src="<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fwww.instagram.com%2Fjonathanm0404%2F%3Fr%3Dnametag&amp;qzone=1&amp;margin=0&amp;size=200x200&amp;ecc=L" alt="qr code" />" alt="qr code" />
 **Personal Stuffs:**
 
 - 👨‍🏛 I'm currently a student at **ITLA, Instituto Tecnologico Las Americas**.
