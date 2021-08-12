@@ -3,7 +3,7 @@
 <img align="right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Los_K_Morales_Logo_2013.svg/1028px-Los_K_Morales_Logo_2013.svg.png" alt="Kenshin" />
 
 <a href="https://www.instagram.com/jonathanm0404/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.flaticon.com/icons/png/512/87/87390.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
+  <img align="left" alt="Instagram" width="22px" src="https://w7.pngwing.com/pngs/815/101/png-transparent-www-mevrouwpak-nl-advertising-graphic-design-instagram-instagram-logo-business-advertising.png" />
 </a>
 
 <a href="https://github.com/itskenshin/">
