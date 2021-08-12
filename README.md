@@ -59,7 +59,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <code><img height="20" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></code>
 <code><img height="20" src="http://proyectoidis.org/wp-content/uploads/2015/05/6685.unity3d-logo.png"></code>
-
+<code><img height="20" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png"></code>
 
 **Technology being learned**
 
