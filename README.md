@@ -23,7 +23,7 @@
 - 💻 I am currently an **Industrial Engineer**.
 - 🌱 I'm currently learning **Full Stack development**.
 - 💬 Languages **English and Spanish**
-- 🤔 My hobbies are **Playing Tennis Play Piano and Video games**.
+- 🤔 My hobbies are **Playing Tennis,Piano,Video games**.
 - 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email: 
  Gmail:**jomontero04gmail.com**.
