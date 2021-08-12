@@ -3,7 +3,7 @@
 <br />
 **Kata Pro in CodeWars**
 
-<img align="right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Los_K_Morales_Logo_2013.svg/1028px-Los_K_Morales_Logo_2013.svg.png" alt="Kenshin" />
+<img width= "100" align="right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Los_K_Morales_Logo_2013.svg/1028px-Los_K_Morales_Logo_2013.svg.png" alt="Kenshin" />
 
 
 <a href="https://www.instagram.com/jonathanm0404/">
