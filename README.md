@@ -4,13 +4,13 @@
 **Kata Pro in CodeWars**
 
 <img align="right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Los_K_Morales_Logo_2013.svg/1028px-Los_K_Morales_Logo_2013.svg.png" alt="Kenshin" />
-
+**Social**
+<br />
 <a href="https://www.instagram.com/jonathanm0404/">
   <img align="left" alt="Instagram" width="22px" src="https://w7.pngwing.com/pngs/815/101/png-transparent-www-mevrouwpak-nl-advertising-graphic-design-instagram-instagram-logo-business-advertising.png" />
 </a>
 
-**Social**
-<br />
+
 <a href="https://github.com/itskenshin/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
