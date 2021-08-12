@@ -20,7 +20,7 @@
 **Personal Stuffs:**
 
 - 👨‍🏛 I'm currently a student at **ITLA, Instituto Tecnologico Las Americas**.
-- 💻 I am currently an industrial engineer.
+- 💻 I am currently an **Industrial Engineer**.
 - 🌱 I'm currently learning **Full Stack development**.
 - 💬 Languages **English and Spanish**
 - 🤔 My hobbies are **playing Tennis Play Piano and Video games **.
