@@ -31,7 +31,7 @@
 **Personal Stuffs:**
 
 - 👨‍🏛 I'm currently a student at **ITLA, Instituto Tecnologico Las Americas**.
-- 💻 I am currently an **Industrial Engineer**.
+- 💻 I am currently have Bachelor Degree **Industrial Engineer**.
 - 🌱 I'm currently learning **Full Stack development**.
 - 💬 Languages **English and Spanish**
 - 🤔 My hobbies are **Playing Tennis,Piano,Video games**.
