@@ -7,7 +7,7 @@
 
 
 <a href="https://www.instagram.com/jonathanm0404/">
-  <img align="left" alt="Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/71537694/153091823-414f154b-f622-4696-80cd-77df07186cd6.png)" />
+  <img align="left" alt="Instagram" width="30"  src="https://user-images.githubusercontent.com/71537694/153091823-414f154b-f622-4696-80cd-77df07186cd6.png" />
 </a>
 
 
