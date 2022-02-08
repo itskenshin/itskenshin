@@ -73,7 +73,7 @@
 <li>
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153093118-74ff98d6-e685-4142-9957-3a5da28c2f13.png">
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153092827-9e823c89-f65f-45ed-8899-995820d942be.png">
-<img height="30" src="https://cdn-icons.flaticon.com/png/512/520/premium/520890.png?token=exp=1644363557~hmac=8e046c1d2acec5431a4931c204b11b4c">
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 </li>
 <br>
 
@@ -82,6 +82,7 @@
 
 **Give me some love, dame estrellas stars ujujuj ❤️**
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=itskenshin.itskenshin)
 
 
 
