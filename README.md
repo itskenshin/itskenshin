@@ -15,10 +15,10 @@
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/joinchat/nGwiABFevdpiZWQx">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1644363391~hmac=85c473688695c07a629eb7aee3016a07" />
 </a>
 <a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/71537694/153092301-3e86755f-8330-497a-943c-f7bbd42b7747.png" />
 </a>
 
 <br />
@@ -58,6 +58,7 @@
 <img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153091429-d3555452-5362-47b8-b651-7aeeb91fed63.png">
 <img width="35" height="35" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1644363041~hmac=c225c843a4dc78d1dad447fb1edbe4bd">
 <img width="35" height="35" src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI">
+<img width="35" height="35" src="https://miro.medium.com/max/400/1*yG6sdo2-MFmZQUgjrgtzXA.png">
 
 
 
