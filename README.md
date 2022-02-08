@@ -75,6 +75,9 @@
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153092827-9e823c89-f65f-45ed-8899-995820d942be.png">
 <img height="30" src="https://cdn-icons.flaticon.com/png/512/520/premium/520890.png?token=exp=1644363557~hmac=8e046c1d2acec5431a4931c204b11b4c">
 </li>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskenshin&hide=TeX&layout=compact)
 
 
 **Give me some love, dame estrellas stars ujujuj ❤️**
