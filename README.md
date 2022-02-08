@@ -54,7 +54,7 @@
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 <img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 
