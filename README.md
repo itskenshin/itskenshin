@@ -71,8 +71,7 @@
 
 **Technology being learned**
 <br>
-<img height="30" src="https://user-images.githubusercontent.com/71537694/153093118-74ff98d6-e685-4142-9957-3a5da28c2f13.png">
-<img height="30" src="https://user-images.githubusercontent.com/71537694/153092827-9e823c89-f65f-45ed-8899-995820d942be.png">
+![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 
