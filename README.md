@@ -59,6 +59,9 @@
 <img width="35" height="35" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1644363041~hmac=c225c843a4dc78d1dad447fb1edbe4bd">
 <img width="35" height="35" src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI">
 <img width="35" height="35" src="https://miro.medium.com/max/400/1*yG6sdo2-MFmZQUgjrgtzXA.png">
+<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153093229-311957c0-d324-4e40-a874-ce5a4cfb5c94.png">
+
+
 
 
 
@@ -67,10 +70,6 @@
 
 **Technology being learned**
 <li>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153093118-74ff98d6-e685-4142-9957-3a5da28c2f13.png">
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153092827-9e823c89-f65f-45ed-8899-995820d942be.png">
 <img height="30" src="https://cdn-icons.flaticon.com/png/512/520/premium/520890.png?token=exp=1644363557~hmac=8e046c1d2acec5431a4931c204b11b4c">
