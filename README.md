@@ -53,14 +53,13 @@
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
- ![image](https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png)
+<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vmware.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
@@ -69,8 +68,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <code><img height="20" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></code>
 <code><img height="20" src="http://proyectoidis.org/wp-content/uploads/2015/05/6685.unity3d-logo.png"></code>
-<code><img height="20" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png"></code>
 </li>
+
 **Technology being learned**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
