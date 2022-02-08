@@ -55,11 +55,9 @@
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 <img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153091429-d3555452-5362-47b8-b651-7aeeb91fed63.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vmware.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
