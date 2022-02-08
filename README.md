@@ -56,7 +56,7 @@
 <img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
 <img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153091429-d3555452-5362-47b8-b651-7aeeb91fed63.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+<img width="35" height="35" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1644363041~hmac=c225c843a4dc78d1dad447fb1edbe4bd">
 
 
 
