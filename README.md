@@ -44,7 +44,7 @@
 
 
 **Languages and Tools:**  
-
+<li>
 <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
@@ -64,7 +64,7 @@
 <code><img height="20" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></code>
 <code><img height="20" src="http://proyectoidis.org/wp-content/uploads/2015/05/6685.unity3d-logo.png"></code>
 <code><img height="20" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png"></code>
-
+</li>
 **Technology being learned**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
