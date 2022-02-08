@@ -49,6 +49,12 @@
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/423/423068.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png">
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+ ![image](https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png)
+
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
