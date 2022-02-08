@@ -71,7 +71,7 @@
 
 **Technology being learned**
 <br>
-![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue)
+![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vuejs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 
