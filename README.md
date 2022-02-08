@@ -70,11 +70,9 @@
 </li>
 
 **Technology being learned**
-<li>
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153093118-74ff98d6-e685-4142-9957-3a5da28c2f13.png">
 <img height="30" src="https://user-images.githubusercontent.com/71537694/153092827-9e823c89-f65f-45ed-8899-995820d942be.png">
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-</li>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskenshin&hide=TeX&layout=compact)
