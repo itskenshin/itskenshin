@@ -65,6 +65,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 
 
 
