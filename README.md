@@ -67,6 +67,8 @@
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Sqlservers](https://img.shields.io/badge/-Sqlservers-red?style=flat-square&logo=Sqlservers)
+![Oracle](https://img.shields.io/badge/-Oracle-blue?style=flat-square&logo=Oracle)
+
 
 
 
