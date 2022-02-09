@@ -63,6 +63,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-square&logo=Flask)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
+![Csharp](https://img.shields.io/badge/-Csharp-white?style=flat-square&logo=Csharp)
+
 
 
 
