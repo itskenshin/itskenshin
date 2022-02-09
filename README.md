@@ -62,6 +62,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-square&logo=Flask)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+
 
 
 
