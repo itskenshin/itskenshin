@@ -61,26 +61,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
-<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/423/423068.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153090910-300fc036-643b-4ace-a032-1acb261ed0ff.png">
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
-<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153091429-d3555452-5362-47b8-b651-7aeeb91fed63.png">
-<img width="35" height="35" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1644363041~hmac=c225c843a4dc78d1dad447fb1edbe4bd">
-<img width="35" height="35" src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI">
-<img width="35" height="35" src="https://miro.medium.com/max/400/1*yG6sdo2-MFmZQUgjrgtzXA.png">
-<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153093229-311957c0-d324-4e40-a874-ce5a4cfb5c94.png">
-<img width="35" height="35" src="https://user-images.githubusercontent.com/71537694/153093411-20edb22f-8e1a-4f90-8b45-533ab7a2e7e6.png">
-
-
-
-
 
 
 
