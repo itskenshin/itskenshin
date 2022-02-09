@@ -28,7 +28,7 @@
 
 
 
-**Personal Stuffs:**
+**Personal Stuffs**
 
 - 👨‍🏛 I'm currently a student at **ITLA, Instituto Tecnologico Las Americas**.
 - 💻 I am currently have Bachelor Degree **Industrial Engineer**.
@@ -43,7 +43,8 @@
  alt="Kenshin" />
 
 
-**⚡Languages and Tools:**  
+**⚡Languages and Tools**  
+<br>
 ![vscode](https://img.shields.io/badge/-Vscode-blue?style=flat-square&logo=visualstudiocode)
 ![python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
