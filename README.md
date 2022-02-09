@@ -44,7 +44,7 @@
 
 
 **⚡Languages and Tools:**  
-![vscode](https://img.shields.io/badge/-Vscode-black?style=flat-square&logo=visual studio code)
+![vscode](https://img.shields.io/badge/-Vscode-black?style=flat-square&logo=visualstudiocode)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
