@@ -46,7 +46,7 @@
 **⚡Languages and Tools:**  
 ![vscode](https://img.shields.io/badge/-Vscode-blue?style=flat-square&logo=visualstudiocode)
 ![python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
-![csharp](https://img.shields.io/badge/-C#-red?style=flat-square&logo=csharp)
+![c#](https://img.shields.io/badge/-C#-red?style=flat-square&logo=c#)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
