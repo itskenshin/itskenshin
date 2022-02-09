@@ -71,6 +71,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=Pycharm)
 ![Unity](https://img.shields.io/badge/-Unity-pruple?style=flat-square&logo=Unity)
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=.NET)
+![Figma](https://img.shields.io/badge/-Figma-pruple?style=flat-square&logo=Figma)
 
 
 
