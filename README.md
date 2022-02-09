@@ -44,7 +44,6 @@
 
 
 **⚡Languages and Tools:**  
-<li>
 ![Vscode](https://img.shields.io/badge/-Vscode-black?style=flat-square&logo=vscode)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -76,7 +75,6 @@
 
 
 
-</li>
 
 **Technology being learned**
 <br>
