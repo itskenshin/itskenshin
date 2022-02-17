@@ -14,9 +14,7 @@
 <a href="https://github.com/itskenshin/">
   <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://t.me/joinchat/nGwiABFevdpiZWQx">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1644363391~hmac=85c473688695c07a629eb7aee3016a07" />
-</a>
+
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/71537694/153092301-3e86755f-8330-497a-943c-f7bbd42b7747.png" />
 </a>
