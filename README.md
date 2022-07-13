@@ -1,8 +1,4 @@
 ### hihihi 👋, Jonathan Aka Kenshin.<code><img height="20" src="https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png"></code>
-<a href="https://kenbots.herokuapp.com/#home">
-  Web Portafolio
-</a>
-<br />
 **Rank 4 Sololearn Dominican Republic**
 <br />
 **Kata Pro in CodeWars**
@@ -26,7 +22,9 @@
 <br />
 <br />
 
-# Scan QR Code: --------------------------------- > Portafolio
+# Scan QR Code: <a href="https://kenbots.herokuapp.com/#home">
+  Web Portafolio
+</a> > Portafolio
 <img align="right" src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https://kenbots.herokuapp.com/#home;qzone=1&amp;margin=0&amp;size=200x200&amp;ecc=L" alt="qr code" />
 
 
