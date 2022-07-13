@@ -2,6 +2,7 @@
 <a href="https://kenbots.herokuapp.com/#home">
   Web Portafolio
 </a>
+<br />
 **Rank 4 Sololearn Dominican Republic**
 <br />
 **Kata Pro in CodeWars**
