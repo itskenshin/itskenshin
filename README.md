@@ -1,7 +1,4 @@
 ### hihihi 👋, Jonathan Aka Kenshin.<code><img height="20" src="https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png"></code>
-<a href="<a href="https://kenbots.herokuapp.com/#home">
-  
-                                                      </a>
 **Rank 4 Sololearn Dominican Republic**
 <br />
 **Kata Pro in CodeWars**
