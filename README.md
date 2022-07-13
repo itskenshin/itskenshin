@@ -1,9 +1,7 @@
 ### hihihi 👋, Jonathan Aka Kenshin.<code><img height="20" src="https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png"></code>
-<a href="<a href="https://mail.google.com/">
-  <img align="left" alt="kenbots" width="22px" />
-</a> ">
-  <img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/71537694/153092301-3e86755f-8330-497a-943c-f7bbd42b7747.png" />
-</a>
+<a href="<a href="https://kenbots.herokuapp.com/#home">
+  
+                                                      </a>
 **Rank 4 Sololearn Dominican Republic**
 <br />
 **Kata Pro in CodeWars**
