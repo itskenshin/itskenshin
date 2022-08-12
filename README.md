@@ -1,5 +1,5 @@
 ### hihihi 👋, Jonathan Aka Kenshin.<code><img height="20" src="https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png"></code>
-**Rank 4 Sololearn Dominican Republic**
+**Rank 3 Sololearn Dominican Republic**
 <br />
 **Kata Pro in CodeWars**
 <br />
