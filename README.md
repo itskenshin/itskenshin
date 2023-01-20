@@ -92,7 +92,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=itskenshin&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itskenshin&hide=TeX&layout=compact)
 
 
 **Give me some love, dame estrellas stars ujujuj ❤️**
