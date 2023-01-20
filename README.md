@@ -40,7 +40,7 @@
 - 📫 Please contact me via email: 
  Gmail:**jomontero04gmail.com**.
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=itsKenshin&count_private=true&show_icons=true&theme=dark)"
+<img align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsKenshin&count_private=true&show_icons=true&theme=dark)"
  alt="Kenshin" />
 
 
